@@ -11,6 +11,7 @@ export default {
         // Добавляем "Sofia Sans"
         sofia: ['"Sofia Sans"', 'serif'],
         skranji: ['"Skranji"', 'serif'],
+        skranji: ['"Roboto"', 'serif'],
       },
       colors: {
         background: "var(--background)",

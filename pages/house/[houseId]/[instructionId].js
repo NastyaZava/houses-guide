@@ -7,7 +7,7 @@ export default function InstructionPage({ house, instruction }) {
         <div className="w-[80vw] sm:w-[50vw] flex flex-col items-center gap-10">
           <div className="flex flex-col gap-4  items-center ">
             <p className="font-bold text-[16px] uppercase">Как топить нижнюю топку (камин):</p>
-            <div className="flex w-full h-[300px] bg-[#aabccd] items-center justify-center uppercase text-[#fff]">
+            <div className="flex w-full h-[300px] bg-[#aabccd] items-center justify-center uppercase text-[#fff] p-5 text-center">
               <span>можно добавить фото в любом месте</span>
             </div>
             <ul className="flex gap-2 flex-col list-decimal p-6">
@@ -34,7 +34,7 @@ export default function InstructionPage({ house, instruction }) {
           </div>
           <div className="flex flex-col items-center gap-4">
             <p className="font-bold text-[16px] uppercase">Как топить верхнюю топку ( духовка ):</p>
-            <div className="flex w-full h-[300px] bg-[#aabccd] items-center justify-center uppercase text-[#fff]">
+            <div className="flex w-full h-[300px] bg-[#aabccd] items-center justify-center uppercase text-[#fff] p-5 text-center">
               можно добавить фото в любом месте
             </div>
             <ul className="flex gap-2 flex-col list-decimal p-6">

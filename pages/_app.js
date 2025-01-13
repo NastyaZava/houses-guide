@@ -13,7 +13,7 @@ function App({ Component, pageProps }) {
           rel="stylesheet"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Skranji:wght@400;700&family=Sofia+Sans+Semi+Condensed:ital,wght@0,1..1000;1,1..1000&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Roboto:ital,wght@0,100..900;1,100..900&family=Skranji:wght@400;700&family=Sofia+Sans+Semi+Condensed:ital,wght@0,1..1000;1,1..1000&family=Sofia+Sans:ital,wght@0,1..1000;1,1..1000&display=swap"
           rel="stylesheet"></link>
         <title>Гид по дому</title>
         <meta name="description" content="" />
