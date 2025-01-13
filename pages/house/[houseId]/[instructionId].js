@@ -2,7 +2,7 @@ import houses from "@/data/houses.json"
 
 export default function InstructionPage({ house, instruction }) {
   return (
-    <div className="flex flex-col w-full items-center font-sofia font-medium text-[16px] my-10 text-[#59280b]">
+    <div className="flex flex-col w-full items-center font-roboto font-medium text-[16px] my-10 text-[#59280b]">
       {instruction.id === "finnish-stove" && (
         <div className="w-[80vw] sm:w-[50vw] flex flex-col items-center gap-10">
           <div className="flex flex-col gap-4  items-center ">

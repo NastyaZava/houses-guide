@@ -5,7 +5,7 @@ export default function HousePage({ house }) {
   if (!house) return <div>Дом не найден</div>
 
   return (
-    <div className="flex flex-col w-full items-center p-20 font-sofia ">
+    <div className="flex flex-col w-full items-center p-20 font-roboto ">
       <div className="text-center mb-5 text-[32px] text-[#59280b] font-semibold">
         Инструкции по использованию
       </div>
