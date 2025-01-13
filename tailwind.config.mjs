@@ -7,6 +7,11 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        // Добавляем "Sofia Sans"
+        sofia: ['"Sofia Sans"', 'serif'],
+        skranji: ['"Skranji"', 'serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
